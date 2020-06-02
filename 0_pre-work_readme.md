@@ -1,14 +1,11 @@
-## NAME_OF_YOUR_APP_HERE
+## HelloGianna
 
 ### App Description
-`TODO://` Add app description
+This app has 3 buttons - one which changes the text color of the text at the top, one which changes the background color of the app and one which changes the text at the top to what is currently entered in the text box. For fun, I made the change background button change the color scheme of the app. :P
 
 ### App Walk-through
 
-
 <img src="final.gif" width=200><br>
-
-
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
